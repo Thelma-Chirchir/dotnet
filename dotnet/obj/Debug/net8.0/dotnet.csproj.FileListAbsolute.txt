@@ -1,0 +1,5 @@
+/home/thelma/dotnet/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/thelma/dotnet/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/home/thelma/dotnet/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/home/thelma/dotnet/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/home/thelma/dotnet/dotnet/obj/Debug/net8.0/dotnet.sourcelink.json
