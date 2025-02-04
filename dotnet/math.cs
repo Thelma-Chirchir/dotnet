@@ -1,6 +1,6 @@
 using System;
 
-public class Program
+public class Math
 {
   public static void Main(string[] args)
   {
